@@ -12,7 +12,7 @@ Each writeup documents an attack executed in a controlled, isolated home lab, th
 
 | Writeup | Focus | Key skills demonstrated |
 |---|---|---|
-| [UnrealIRCd Backdoor — CVE-2010-2075](./unrealircd-cve-2010-2075-writeup.md) | RCE via IRC service backdoor | Traffic analysis, Base64 evasion analysis, detection engineering (Suricata + Wazuh), MITRE ATT&CK mapping |
+| [UnrealIRCd Backdoor — CVE-2010-2075](./unrealircd-cve-2010-2075-writeup.md) | RCE via IRC service backdoor | Traffic analysis, Base64 evasion analysis, detection engineering, MITRE ATT&CK mapping |
 
 ---
 
